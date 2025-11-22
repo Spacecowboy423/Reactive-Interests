@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactive-Interests/static/css/main.b1cb5504.css",
+    "main.js": "/Reactive-Interests/static/js/main.45e849b1.js",
+    "index.html": "/Reactive-Interests/index.html",
+    "main.b1cb5504.css.map": "/Reactive-Interests/static/css/main.b1cb5504.css.map",
+    "main.45e849b1.js.map": "/Reactive-Interests/static/js/main.45e849b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1cb5504.css",
+    "static/js/main.45e849b1.js"
+  ]
+}
