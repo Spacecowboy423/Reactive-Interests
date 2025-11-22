@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Reactive-Interests/static/css/main.b1cb5504.css",
-    "main.js": "/Reactive-Interests/static/js/main.33884e5d.js",
+    "main.js": "/Reactive-Interests/static/js/main.0796d6dd.js",
     "index.html": "/Reactive-Interests/index.html",
     "main.b1cb5504.css.map": "/Reactive-Interests/static/css/main.b1cb5504.css.map",
-    "main.33884e5d.js.map": "/Reactive-Interests/static/js/main.33884e5d.js.map"
+    "main.0796d6dd.js.map": "/Reactive-Interests/static/js/main.0796d6dd.js.map"
   },
   "entrypoints": [
     "static/css/main.b1cb5504.css",
-    "static/js/main.33884e5d.js"
+    "static/js/main.0796d6dd.js"
   ]
 }
